@@ -1,0 +1,5 @@
+bazel-bin
+MODULE.bazel.lock
+bazel-lua_example
+bazel-out
+bazel-testlogs
